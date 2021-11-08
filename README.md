@@ -2,6 +2,8 @@
 
 .NET console app demonstrating integration testing for ASP.NET Core MVC.
 
+Adapted from the [official documentation](https://docs.microsoft.com/en-us/aspnet/core/test/integration-tests?view=aspnetcore-5.0).
+
 ## Development notes
 
 ### Installing dependencies
