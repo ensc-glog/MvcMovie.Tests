@@ -1,5 +1,7 @@
 # MvcMovie.Tests
 
+.NET console app demonstrating integration testing for ASP.NET Core MVC.
+
 ## Development notes
 
 ### Installing dependencies
